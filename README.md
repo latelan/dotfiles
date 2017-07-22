@@ -1,2 +1,4 @@
 # dotfiles
-Some app's configurations
+一些常用软件的配置
+* vim
+* tmux
