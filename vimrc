@@ -1,3 +1,5 @@
+filetype plugin indent on
+
 set autochdir               " 自动切换当前目录为当前文件所在的目录
 set cursorline              " 突出显示当前行
 set equalalways             " 分割窗口时保持相等的宽/高
